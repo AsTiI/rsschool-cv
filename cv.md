@@ -3,7 +3,6 @@
 
 ## Contacts:
 ***************
-* **Phone:** +375 33 35-90-475
 * **E-mail:** maxim.ast.1998@gmail.com
 * **Telegram:** @one_new_man
 
