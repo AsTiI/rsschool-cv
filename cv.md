@@ -9,7 +9,7 @@
 ## About Me:
 ***************
 I studied at technical university, worked by teacher but
-I **WANNA** be a frontend developer and I **WILL!!**
+I **WANNA** be a frontend developer and I **WILL!**
 
 ## Skills:
 ***************
